@@ -11,3 +11,11 @@ Access and modify elements
 Perform basic operations (addition, subtraction, multiplication)
 Transpose arrays
 Find the maximum, minimum, and sum of elements
+
+## Palindrome
+A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization). For example, "radar" , "madam" , 121 , 1441 are palindromes.
+To check if a given palindrome, you typically follow these steps:
+
+1.Normalize the Input:
+2.Reverse the given number or string:
+3.Compare the Normalized String with its Reversed Version: 
