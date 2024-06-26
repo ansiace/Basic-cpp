@@ -1,6 +1,34 @@
 ## Welcome to basic cpp 
 This repository contains the basic c++ programming for logic building. here this rpository contains the array problems,here w'll cover from basic to advanced array problems.
 
+## Basic about array
+### Static Array
+A static array has a fixed size that is determined at compile time
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Creating a static array
+    int arr[5] = {1, 2, 3, 4, 5};
+
+    // Accessing elements
+    cout << "First element: " << arr[0] << endl;  // Output: 1
+
+    // Modifying elements
+    arr[1] = 10;
+
+    // Printing the array
+    cout << "Array elements: ";
+    for (int i = 0; i < 5; ++i) {
+        cout << arr[i] << " ";  // Output: 1 10 3 4 5
+    }
+    cout << endl;
+
+    return 0;
+}
+
+
 ## 2D Array Library
 ### Overview
 This 2D Array Library provides utilities for creating, manipulating, and performing operations on 2-dimensional arrays in c++. It is designed to be easy to use and efficient, offering a range of functionalities commonly needed when working with 2D arrays.
