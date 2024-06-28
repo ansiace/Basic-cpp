@@ -1,4 +1,16 @@
 ## Welcome to basic cpp 
+
+1. Basic Structure of a C++ Program
+A simple C++ program consists of at least one main() function, which is the entry point of the program.
+
+cpp
+Copy code
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+    
 This repository contains the basic c++ programming for logic building. here this rpository contains the array problems,here w'll cover from basic to advanced array problems.
 
 ## Basic about array
