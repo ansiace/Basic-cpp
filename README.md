@@ -3,7 +3,7 @@ This repository contains the basic c++ programming for logic building. here this
 
 ## Basic about array
 ### Static Array
-A static array has a fixed size that is determined at compile time
+A static array has a fixed size that is determined at compile time.
 
 #include <iostream>
 using namespace std;
@@ -31,9 +31,9 @@ int main() {
 
 ## 2D Array Library
 ### Overview
-This 2D Array Library provides utilities for creating, manipulating, and performing operations on 2-dimensional arrays in c++. It is designed to be easy to use and efficient, offering a range of functionalities commonly needed when working with 2D arrays.
+This 2D Array Library provides utilities for creating, manipulating, and performing operations on 2-dimensional arrays in c++.
 
-Features
+###Features
 Create 2D arrays with specified dimensions and initial values
 Access and modify elements
 Perform basic operations (addition, subtraction, multiplication)
