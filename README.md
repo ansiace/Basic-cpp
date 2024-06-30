@@ -30,7 +30,7 @@ bool myBool = true;
 
 
     
-## This repository contains the basic c++ programming for logic building. here this rpository contains the array problems,here w'll cover from basic to advanced array problems.
+## This repository contains the basic c++ programming for logic building here it's contains the array problems,here w'll cover from basic to advanced array problems.
 
 ### Basic about array
 ### Static Array
