@@ -1,17 +1,17 @@
-## Welcome to basic cpp programming 
+## Welcome to basic cpp programming.
 
-##1. Basic Structure of a C++ Program.
+## 1. Basic Structure of a C++ Program.
+
 A simple C++ program consists of at least one main() function, which is the entry point of the program.
 
 cpp
-Copy code
 #include <iostream>
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
     return 0;
 
-##2. Data Types
+## 2. Data Types
 C++ supports several built-in data types, including:
 
 int: Integer
@@ -19,8 +19,9 @@ float: Floating point number
 double: Double precision floating point number
 char: Character
 bool: Boolean
+
 cpp
-Copy code
+
 int myInt = 10;
 float myFloat = 3.14;
 double myDouble = 2.71828;
