@@ -28,6 +28,13 @@ double myDouble = 2.71828;
 char myChar = 'A';
 bool myBool = true;    
 
+## 3. Variables and Constants
+Variables store data that can be modified later in the program, while constants hold data that cannot be changed.
+
+cpp
+
+int variable = 10;
+const int constant = 100;
 
     
 ## This repository contains the basic c++ programming for logic building here it's contains the array problems,here w'll cover from basic to advanced array problems.
