@@ -44,6 +44,50 @@ Comparison: ==, !=, <, >, <=, >=
 Logical: &&, ||, !
 Assignment: =, +=, -=, *=, /=, %=
 
+## 5. Control Structures
+C++ has several control structures for decision making and loops:
+
+if-else:
+
+cpp
+if (condition) {
+    // code to execute if condition is true
+} else {
+    // code to execute if condition is false
+}
+switch:
+
+cpp
+switch (expression) {
+    case constant1:
+        // code to execute if expression equals constant1
+        break;
+    case constant2:
+        // code to execute if expression equals constant2
+        break;
+    default:
+        // code to execute if expression doesn't match any constant
+}
+for loop:
+
+cpp
+for (int i = 0; i < 10; i++) {
+    // code to execute in the loop
+}
+while loop:
+
+cpp
+while (condition) {
+    // code to execute while condition is true
+}
+do-while loop:
+
+cpp
+do {
+    // code to execute at least once
+} while (condition);
+
+
     
 ## This repository contains the basic c++ programming for logic building here it's contains the array problems,here w'll cover from basic to advanced array problems.
 
