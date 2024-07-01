@@ -36,6 +36,14 @@ cpp
 int variable = 10;
 const int constant = 100;
 
+## 4. Operators
+C++ includes a variety of operators, such as:
+
+Arithmetic: +, -, *, /, %
+Comparison: ==, !=, <, >, <=, >=
+Logical: &&, ||, !
+Assignment: =, +=, -=, *=, /=, %=
+
     
 ## This repository contains the basic c++ programming for logic building here it's contains the array problems,here w'll cover from basic to advanced array problems.
 
