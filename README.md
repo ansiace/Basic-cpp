@@ -87,6 +87,20 @@ do {
     // code to execute at least once
 } while (condition);
 
+## 6. Functions
+Functions are blocks of code that perform a specific task and can be reused.
+
+cpp
+int add(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    int sum = add(5, 3);
+    std::cout << "Sum: " << sum << std::endl;
+    return 0;
+}
+
 
     
 ## This repository contains the basic c++ programming for logic building here it's contains the array problems,here w'll cover from basic to advanced array problems.
