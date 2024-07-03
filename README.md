@@ -4,7 +4,6 @@
 
 A simple C++ program consists of at least one main() function, which is the entry point of the program.
 
-cpp
 #include <iostream>
 
 int main() {
@@ -20,8 +19,6 @@ double: Double precision floating point number
 char: Character
 bool: Boolean
 
-cpp
-
 int myInt = 10;
 float myFloat = 3.14;
 double myDouble = 2.71828;
@@ -30,8 +27,6 @@ bool myBool = true;
 
 ## 3. Variables and Constants
 Variables store data that can be modified later in the program, while constants hold data that cannot be changed.
-
-cpp
 
 int variable = 10;
 const int constant = 100;
@@ -49,7 +44,6 @@ C++ has several control structures for decision making and loops:
 
 if-else:
 
-cpp
 if (condition) {
     // code to execute if condition is true
 } else {
@@ -57,7 +51,6 @@ if (condition) {
 }
 switch:
 
-cpp
 switch (expression) {
     case constant1:
         // code to execute if expression equals constant1
@@ -70,19 +63,16 @@ switch (expression) {
 }
 for loop:
 
-cpp
 for (int i = 0; i < 10; i++) {
     // code to execute in the loop
 }
 while loop:
 
-cpp
 while (condition) {
     // code to execute while condition is true
 }
 do-while loop:
 
-cpp
 do {
     // code to execute at least once
 } while (condition);
@@ -90,7 +80,6 @@ do {
 ## 6. Functions
 Functions are blocks of code that perform a specific task and can be reused.
 
-cpp
 int add(int a, int b) {
     return a + b;
 }
