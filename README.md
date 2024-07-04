@@ -90,6 +90,19 @@ int main() {
     return 0;
 }
 
+## 7. Arrays
+Arrays are collections of elements of the same type stored in contiguous memory locations.
+
+cpp
+int myArray[5] = {1, 2, 3, 4, 5};
+
+## 8. Pointers
+Pointers store the memory address of another variable.
+
+cpp
+int var = 10;
+int* ptr = &var; // ptr holds the address of var
+
 
     
 ## This repository contains the basic c++ programming for logic building here it's contains the array problems,here w'll cover from basic to advanced array problems.
