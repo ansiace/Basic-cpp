@@ -104,6 +104,26 @@ int var = 10;
 int* ptr = &var; // ptr holds the address of var
 
 
+## 9. Classes and Objects
+C++ is an object-oriented programming language that allows you to define classes.
+
+cpp
+
+class MyClass {
+public:
+    int myNumber;
+    void myFunction() {
+        std::cout << "Hello, World!" << std::endl;
+    }
+};
+
+int main() {
+    MyClass obj; // Create an object of MyClass
+    obj.myNumber = 15;
+    obj.myFunction();
+    return 0;
+}
+
     
 ## This repository contains the basic c++ programming for logic building here it's contains the array problems,here w'll cover from basic to advanced array problems.
 
