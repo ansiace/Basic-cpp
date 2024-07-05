@@ -124,6 +124,32 @@ int main() {
     return 0;
 }
 
+## 10. Standard Library
+C++ has a rich standard library that provides various functionalities, including input/output operations, string manipulations, and data structures.
+
+iostream: for input/output stream
+vector: dynamic array
+string: string manipulation
+
+cpp
+
+#include <iostream>
+#include <vector>
+#include <string>
+
+int main() {
+    std::vector<int> vec = {1, 2, 3, 4, 5};
+    std::string str = "Hello, World!";
+    
+    std::cout << str << std::endl;
+    for (int i : vec) {
+        std::cout << i << " ";
+    }
+    std::cout << std::endl;
+
+    return 0;
+}
+
     
 ## This repository contains the basic c++ programming for logic building here it's contains the array problems,here w'll cover from basic to advanced array problems.
 
