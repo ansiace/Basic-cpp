@@ -93,13 +93,13 @@ int main() {
 ## 7. Arrays
 Arrays are collections of elements of the same type stored in contiguous memory locations.
 
-cpp
+code:
 int myArray[5] = {1, 2, 3, 4, 5};
 
 ## 8. Pointers
 Pointers store the memory address of another variable.
 
-cpp
+code:
 int var = 10;
 int* ptr = &var; // ptr holds the address of var
 
@@ -107,8 +107,7 @@ int* ptr = &var; // ptr holds the address of var
 ## 9. Classes and Objects
 C++ is an object-oriented programming language that allows you to define classes.
 
-cpp
-
+code:
 class MyClass {
 public:
     int myNumber;
@@ -131,8 +130,7 @@ iostream: for input/output stream
 vector: dynamic array
 string: string manipulation
 
-cpp
-
+code:
 #include <iostream>
 #include <vector>
 #include <string>
@@ -152,6 +150,7 @@ int main() {
 
 #### This is just an introduction to the basics of C++. There's much more to learn, such as advanced data structures, algorithms, templates, and more. If you have any specific questions or need further explanation on any topic, feel free to ask!
 
+<!--end of basics of c++-->
     
 ## This repository contains the basic c++ programming for logic building here it's contains the array problems,here w'll cover from basic to advanced array problems.
 
