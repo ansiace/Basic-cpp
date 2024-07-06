@@ -150,6 +150,8 @@ int main() {
     return 0;
 }
 
+#### This is just an introduction to the basics of C++. There's much more to learn, such as advanced data structures, algorithms, templates, and more. If you have any specific questions or need further explanation on any topic, feel free to ask!
+
     
 ## This repository contains the basic c++ programming for logic building here it's contains the array problems,here w'll cover from basic to advanced array problems.
 
