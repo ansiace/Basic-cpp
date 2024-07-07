@@ -152,7 +152,7 @@ int main() {
 
 <!--end of basics of c++-->
     
-## This repository contains the basic c++ programming for logic building here it's contains the array problems,here w'll cover from basic to advanced array problems.
+### This repository contains the basic c++ programming for logic building here it's contain problems based on cpp,here w'll cover from basic to advanced problems.
 
 ### Basic about array
 ### Static Array
