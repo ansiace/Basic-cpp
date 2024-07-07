@@ -1,6 +1,6 @@
-## Welcome to basic cpp programming 
+## Welcome to basic cpp programming 🧑‍💻
 
-## 1. Basic Structure of a C++ Program.
+## 1️⃣ Basic Structure of a C++ Program.
 
 A simple C++ program consists of at least one main() function, which is the entry point of the program.
 
@@ -10,7 +10,7 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     return 0;
 
-## 2. Data Types
+## 2️⃣ Data Types
 C++ supports several built-in data types, including:
 
 int: Integer
@@ -25,13 +25,13 @@ double myDouble = 2.71828;
 char myChar = 'A';
 bool myBool = true;    
 
-## 3. Variables and Constants
+## 3️⃣ Variables and Constants
 Variables store data that can be modified later in the program, while constants hold data that cannot be changed.
 
 int variable = 10;
 const int constant = 100;
 
-## 4. Operators
+## 4️⃣ Operators
 C++ includes a variety of operators, such as:
 
 Arithmetic: +, -, *, /, %
@@ -39,7 +39,7 @@ Comparison: ==, !=, <, >, <=, >=
 Logical: &&, ||, !
 Assignment: =, +=, -=, *=, /=, %=
 
-## 5. Control Structures
+## 5️⃣ Control Structures
 C++ has several control structures for decision making and loops:
 
 if-else:
@@ -77,7 +77,7 @@ do {
     // code to execute at least once
 } while (condition);
 
-## 6. Functions
+## 6️⃣ Functions
 Functions are blocks of code that perform a specific task and can be reused.
 
 int add(int a, int b) {
@@ -90,13 +90,13 @@ int main() {
     return 0;
 }
 
-## 7. Arrays
+## 7️⃣ Arrays
 Arrays are collections of elements of the same type stored in contiguous memory locations.
 
 code:
 int myArray[5] = {1, 2, 3, 4, 5};
 
-## 8. Pointers
+## 8️⃣ Pointers
 Pointers store the memory address of another variable.
 
 code:
@@ -104,7 +104,7 @@ int var = 10;
 int* ptr = &var; // ptr holds the address of var
 
 
-## 9. Classes and Objects
+## 9️⃣ Classes and Objects
 C++ is an object-oriented programming language that allows you to define classes.
 
 code:
@@ -123,7 +123,7 @@ int main() {
     return 0;
 }
 
-## 10. Standard Library
+## 🔟 Standard Library
 C++ has a rich standard library that provides various functionalities, including input/output operations, string manipulations, and data structures.
 
 iostream: for input/output stream
