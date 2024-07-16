@@ -158,3 +158,47 @@ Here we'll start solving questions from basic to advanced level in cpp. From now
 
 ### By understanding these basics, you can start writing your own code and build a foundation for learning more advanced programming concepts.
 
+
+### Armstrong Number:
+An Armstrong number (also known as a narcissistic number, pluperfect number, or pluperfect digital invariant) is a number that is equal to the sum of its own digits raised to the power of the number of digits.
+
+153 is an Armstrong number: 
+9474 is an Armstrong number: 
+123 is an Armstrong number: 
+370 is an Armstrong number:
+
+## Explanation:
+
+
+9474:
+9^
+4
++4^ 
+4
++7 ^
+4
++4 ^
+4
+ = 9474 Armstrong Number;
+ 
+123: 
+1^
+3
++
+2^
+3
++
+3^
+3
+= 36 Not a Armstrong Number;
+
+370: 
+3^
+3
++
+7^
+3
++
+0^
+3
+=370 Armstrong Number
