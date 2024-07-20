@@ -33,7 +33,7 @@ const int constant = 100;
 
 ## 4️⃣ Operators
 C++ includes a variety of operators, such as:
-
+Binary operator:In binary operator, there is only use of one operand. 
 Arithmetic: +, -, *, /, %
 Comparison: ==, !=, <, >, <=, >=
 Logical: &&, ||, !
