@@ -3,28 +3,29 @@
 ## 1️⃣ Basic Structure of a C++ Program.
 
 A simple C++ program consists of at least one main() function, which is the entry point of the program.
-
+```
 #include <iostream>
-
+using namespace std;
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    cout << "Hello, World!" << endl;
     return 0;
-
+```
 ## 2️⃣ Data Types
 C++ supports several built-in data types, including:
-
+```
 int: Integer
 float: Floating point number
 double: Double precision floating point number
 char: Character
 bool: Boolean
-
+```
+```
 int myInt = 10;
 float myFloat = 3.14;
 double myDouble = 2.71828;
 char myChar = 'A';
 bool myBool = true;    
-
+```
 ## 3️⃣ Variables and Constants
 Variables store data that can be modified later in the program, while constants hold data that cannot be changed.
 
