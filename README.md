@@ -35,11 +35,12 @@ const int constant = 100;
 ## 4️⃣ Operators
 C++ includes a variety of operators, such as:
 Binary operator:In binary operator, there is only use of one operand. 
+```
 Arithmetic: +, -, *, /, %
 Comparison: ==, !=, <, >, <=, >=
 Logical: &&, ||, !
 Assignment: =, +=, -=, *=, /=, %=
-
+```
 ## 5️⃣ Control Structures
 C++ has several control structures for decision making and loops:
 
@@ -80,7 +81,7 @@ do {
 
 ## 6️⃣ Functions
 Functions are blocks of code that perform a specific task and can be reused.
-
+```
 int add(int a, int b) {
     return a + b;
 }
@@ -90,7 +91,7 @@ int main() {
     std::cout << "Sum: " << sum << std::endl;
     return 0;
 }
-
+```
 ## 7️⃣ Arrays
 Arrays are collections of elements of the same type stored in contiguous memory locations.
 
@@ -101,14 +102,16 @@ int myArray[5] = {1, 2, 3, 4, 5};
 Pointers store the memory address of another variable.
 
 code:
+```
 int var = 10;
 int* ptr = &var; // ptr holds the address of var
-
+```
 
 ## 9️⃣ Classes and Objects
 C++ is an object-oriented programming language that allows you to define classes.
 
 code:
+```
 class MyClass {
 public:
     int myNumber;
@@ -123,7 +126,7 @@ int main() {
     obj.myFunction();
     return 0;
 }
-
+```
 ## 🔟 Standard Library
 C++ has a rich standard library that provides various functionalities, including input/output operations, string manipulations, and data structures.
 
@@ -132,6 +135,7 @@ vector: dynamic array
 string: string manipulation
 
 code:
+```
 #include <iostream>
 #include <vector>
 #include <string>
@@ -148,7 +152,7 @@ int main() {
 
     return 0;
 }
-
+```
 #### This is just an introduction to the basics of C++. There's much more to learn, such as advanced data structures, algorithms, templates, and more. If you have any specific questions or need further explanation on any topic, feel free to ask!
 
 <!--end of basics of c++-->
