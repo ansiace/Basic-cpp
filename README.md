@@ -164,11 +164,12 @@ int main() {
 
 #### An Armstrong number (also known as a narcissistic number, pluperfect number, or pluperfect digital invariant) is a number that is equal to the sum of its own digits raised to the power of the number of digits. 
 #### Example:
-<div>153 is an Armstrong number: </div>
-<div>9474 is an Armstrong number: </div>
-<div>123 is an Not an Armstrong number: </div>
-<div>370 is an Armstrong number:</div>
-
+```
+153 is an Armstrong number: 
+9474 is an Armstrong number: 
+123 is an Not an Armstrong number: 
+370 is an Armstrong number:
+```
 
 ## Explanation:
 
