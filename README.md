@@ -159,6 +159,7 @@ int main() {
 
 ### By understanding these basics, you can start writing your own code and build a foundation for learning more advanced programming concepts.
 
+# Now covering some important topics asked in interviews.
 
 ## Armstrong Number:
 
@@ -177,5 +178,5 @@ int main() {
 123: 1^3 + 2^3 + 3^3 = 36 Not a Armstrong Number;
 370: 3^3 + 7^3 + 0^3 = 370 Armstrong Number 
 ```
-
-
+## Palindrome Number:
+A palindrome number is a number that remains the same when its digits are reversed. In other words, it reads the same backward as forward. For example, 121, 12321, and 1001 are palindrome numbers.
