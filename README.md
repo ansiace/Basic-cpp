@@ -186,7 +186,7 @@ A palindrome number is a number that remains the same when its digits are revers
 Single-Digit Numbers: Every single-digit number is a palindrome since it reads the same forward and backward. Examples: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
 
 Two-Digit Palindrome Numbers:
-
+```
 11
 22
 33
@@ -196,8 +196,10 @@ Two-Digit Palindrome Numbers:
 77
 88
 99
-Three-Digit Palindrome Numbers:
+```
 
+Three-Digit Palindrome Numbers:
+```
 101
 121
 131
@@ -207,8 +209,10 @@ Three-Digit Palindrome Numbers:
 171
 181
 191
-Four-Digit Palindrome Numbers:
+```
 
+Four-Digit Palindrome Numbers:
+```
 1001
 1111
 1221
@@ -219,8 +223,9 @@ Four-Digit Palindrome Numbers:
 1771
 1881
 1991
+```
 Five-Digit Palindrome Numbers:
-
+```
 10001
 10101
 10201
@@ -231,4 +236,5 @@ Five-Digit Palindrome Numbers:
 10701
 10801
 10901
+```
 These numbers all read the same backward and forward, which is the defining characteristic of a palindrome number.
