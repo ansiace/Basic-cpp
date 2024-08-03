@@ -238,3 +238,11 @@ Five-Digit Palindrome Numbers:
 10901
 ```
 These numbers all read the same backward and forward, which is the defining characteristic of a palindrome number.
+
+## Fabonacci Series
+The Fibonacci series is a sequence of numbers in which each number is the sum of the two preceding ones, usually starting with 0 and 1. The sequence begins as follows:
+
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
+
+In general, the Fibonacci sequence is defined by the recurrence relation:
+𝐹(𝑛)=𝐹(𝑛−1)+𝐹(𝑛−2)
