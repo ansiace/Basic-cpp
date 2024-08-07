@@ -159,8 +159,6 @@ int main() {
 
 ### By understanding these basics, you can start writing your own code and build a foundation for learning more advanced programming concepts.
 
-# Now covering some important topics asked in interviews.
-
 ## Armstrong Number:
 
 #### An Armstrong number (also known as a narcissistic number, pluperfect number, or pluperfect digital invariant) is a number that is equal to the sum of its own digits raised to the power of the number of digits. 
