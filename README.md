@@ -179,7 +179,9 @@ int main() {
 370: 3^3 + 7^3 + 0^3 = 370 Armstrong Number 
 ```
 ## Palindrome Number:
-A palindrome number is a number that remains the same when its digits are reversed. In other words, it reads the same backward as forward. For example, 121, 12321, and 1001 are palindrome numbers.
+
+A palindrome is a word, number, phrase, or other sequence of characters that reads the same backward as forward (ignoring spaces, punctuation, and capitalization). The term originates from the Greek words "palin," meaning "again," and "dromos," meaning "way" or "direction."
+
 
 ### Here are a few examples of palindrome numbers:
 
