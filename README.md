@@ -183,7 +183,7 @@ A palindrome is a word, number, phrase, or other sequence of characters that rea
 
 ### Here are a few examples of palindrome numbers:
 
-Single-Digit Numbers: Every single-digit number is a palindrome since it reads the same forward and backward. Examples: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+- Single-Digit Numbers: Every single-digit number is a palindrome since it reads the same forward and backward. Examples: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
 
 Two-Digit Palindrome Numbers:
 ```
