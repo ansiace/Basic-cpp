@@ -240,7 +240,7 @@ Five-Digit Palindrome Numbers:
 These numbers all read the same backward and forward, which is the defining characteristic of a palindrome number.
 
 ## Fabonacci Series
-The Fibonacci series is a sequence of numbers in which each number is the sum of the two preceding ones, usually starting with 0 and 1. The sequence begins as follows:
+The Fibonacci series (or Fibonacci sequence) is a series of numbers in which each number (after the first two) is the sum of the two preceding ones, usually starting with 0 and 1. This sequence was introduced to the Western world by the Italian mathematician Leonardo of Pisa, also known as Fibonacci. The sequence begins as follows:
 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
 
