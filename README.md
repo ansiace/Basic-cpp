@@ -161,7 +161,7 @@ int main() {
 
 ## Armstrong Number:
 
-#### An Armstrong number (also known as a narcissistic number, pluperfect number, or pluperfect digital invariant) is a number that is equal to the sum of its own digits raised to the power of the number of digits. 
+- An Armstrong number (also known as a narcissistic number, pluperfect number, or pluperfect digital invariant) is a number that is equal to the sum of its own digits raised to the power of the number of digits. 
 ## Example:
 ```
 153 is an Armstrong number: 
@@ -178,12 +178,12 @@ int main() {
 ```
 ## Palindrome Number:
 
-A palindrome is a word, number, phrase, or other sequence of characters that reads the same backward as forward (ignoring spaces, punctuation, and capitalization). The term originates from the Greek words "palin," meaning "again," and "dromos," meaning "way" or "direction."
+- A palindrome is a word, number, phrase, or other sequence of characters that reads the same backward as forward (ignoring spaces, punctuation, and capitalization). The term originates from the Greek words "palin," meaning "again," and "dromos," meaning "way" or "direction."
 
 
 ### Here are a few examples of palindrome numbers:
 
-- Single-Digit Numbers: Every single-digit number is a palindrome since it reads the same forward and backward. Examples: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+Single-Digit Numbers: Every single-digit number is a palindrome since it reads the same forward and backward. Examples: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
 
 Two-Digit Palindrome Numbers:
 ```
@@ -240,7 +240,7 @@ Five-Digit Palindrome Numbers:
 These numbers all read the same backward and forward, which is the defining characteristic of a palindrome number.
 
 ## Fabonacci Series
-The Fibonacci series (or Fibonacci sequence) is a series of numbers in which each number (after the first two) is the sum of the two preceding ones, usually starting with 0 and 1. This sequence was introduced to the Western world by the Italian mathematician Leonardo of Pisa, also known as Fibonacci. The sequence begins as follows:
+- The Fibonacci series (or Fibonacci sequence) is a series of numbers in which each number (after the first two) is the sum of the two preceding ones, usually starting with 0 and 1. This sequence was introduced to the Western world by the Italian mathematician Leonardo of Pisa, also known as Fibonacci. The sequence begins as follows:
 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...
 
