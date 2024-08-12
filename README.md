@@ -192,10 +192,6 @@ Two-Digit Palindrome Numbers:
 33
 44
 55
-66
-77
-88
-99
 ```
 
 Three-Digit Palindrome Numbers:
@@ -205,10 +201,6 @@ Three-Digit Palindrome Numbers:
 131
 141
 151
-161
-171
-181
-191
 ```
 
 Four-Digit Palindrome Numbers:
@@ -218,11 +210,6 @@ Four-Digit Palindrome Numbers:
 1221
 1331
 1441
-1551
-1661
-1771
-1881
-1991
 ```
 Five-Digit Palindrome Numbers:
 ```
@@ -231,11 +218,6 @@ Five-Digit Palindrome Numbers:
 10201
 10301
 10401
-10501
-10601
-10701
-10801
-10901
 ```
 These numbers all read the same backward and forward, which is the defining characteristic of a palindrome number.
 
