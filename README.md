@@ -224,7 +224,7 @@ These numbers all read the same backward and forward, which is the defining char
 ## Fabonacci Series
 - The Fibonacci series (or Fibonacci sequence) is a series of numbers in which each number (after the first two) is the sum of the two preceding ones, usually starting with 0 and 1. This sequence was introduced to the Western world by the Italian mathematician Leonardo of Pisa, also known as Fibonacci.
 
-How to Generate the Fibonacci Sequence:
+### How to Generate the Fibonacci Sequence:
 
 Start with the first two numbers: Typically 0 and 1.
 Add the two most recent numbers to get the next number in the sequence.
