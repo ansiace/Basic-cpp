@@ -235,3 +235,7 @@ The sequence begins as follows:
 
 In general, the Fibonacci sequence is defined by the recurrence relation:
 𝐹(𝑛)=𝐹(𝑛−1)+𝐹(𝑛−2)
+
+## Tribonacci Series
+
+The Tribonacci series is similar to the Fibonacci series, but instead of each number being the sum of the two preceding ones, each number in the Tribonacci series is the sum of the three preceding numbers.
