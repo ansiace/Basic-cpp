@@ -238,4 +238,4 @@ In general, the Fibonacci sequence is defined by the recurrence relation:
 
 ## Tribonacci Series
 
-The Tribonacci series is similar to the Fibonacci series, but instead of each number being the sum of the two preceding ones, each number in the Tribonacci series is the sum of the three preceding numbers.
+- The Tribonacci series is similar to the Fibonacci series, but instead of each number being the sum of the two preceding ones, each number in the Tribonacci series is the sum of the three preceding numbers.
