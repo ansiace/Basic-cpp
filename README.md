@@ -155,7 +155,7 @@ int main() {
 ```
 #### This is just an introduction to the basics of C++. There's much more to learn, such as advanced data structures, algorithms, templates, and more. If you have any specific questions or need further explanation on any topic, feel free to ask!
 
-<!--end of basics of c++-->
+<!--end of basics of cpp-->
 
 ### By understanding these basics, you can start writing your own code and build a foundation for learning more advanced programming concepts.
 
@@ -170,7 +170,7 @@ int main() {
 370 is an Armstrong number:
 ```
 
-## Explanation:
+### Explanation:
 ```
 9474: 9^4 + 4^4 + 7^4 + 4^4 = 9474 Armstrong Number;
 123: 1^3 + 2^3 + 3^3 = 36 Not a Armstrong Number;
@@ -239,3 +239,4 @@ In general, the Fibonacci sequence is defined by the recurrence relation:
 ## Tribonacci Series
 
 - The Tribonacci series is similar to the Fibonacci series, but instead of each number being the sum of the two preceding ones, each number in the Tribonacci series is the sum of the three preceding numbers.
+
