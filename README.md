@@ -2,7 +2,7 @@
 
 ## 1️⃣ Basic Structure of a C++ Program.
 
-A simple C++ program consists of at least one main() function, which is the entry point of the program.
+- A simple C++ program consists of at least one main() function, which is the entry point of the program.
 ```
 #include <iostream>
 using namespace std;
@@ -11,7 +11,7 @@ int main() {
     return 0;
 ```
 ## 2️⃣ Data Types
-C++ supports several built-in data types, including:
+- C++ supports several built-in data types, including:
 ```
 int: Integer
 float: Floating point number
@@ -27,13 +27,13 @@ char myChar = 'A';
 bool myBool = true;    
 ```
 ## 3️⃣ Variables and Constants
-Variables store data that can be modified later in the program, while constants hold data that cannot be changed.
+- Variables store data that can be modified later in the program, while constants hold data that cannot be changed.
 
 int variable = 10;
 const int constant = 100;
 
 ## 4️⃣ Operators
-C++ includes a variety of operators, such as:
+- C++ includes a variety of operators, such as:
 Binary operator:In binary operator, there is only use of one operand. 
 ```
 Arithmetic: +, -, *, /, %
@@ -42,7 +42,7 @@ Logical: &&, ||, !
 Assignment: =, +=, -=, *=, /=, %=
 ```
 ## 5️⃣ Control Structures
-C++ has several control structures for decision making and loops:
+- C++ has several control structures for decision making and loops:
 
 if-else:
 
@@ -80,7 +80,7 @@ do {
 } while (condition);
 
 ## 6️⃣ Functions
-Functions are blocks of code that perform a specific task and can be reused.
+- Functions are blocks of code that perform a specific task and can be reused.
 ```
 int add(int a, int b) {
     return a + b;
@@ -93,13 +93,13 @@ int main() {
 }
 ```
 ## 7️⃣ Arrays
-Arrays are collections of elements of the same type stored in contiguous memory locations.
+- Arrays are collections of elements of the same type stored in contiguous memory locations.
 
 code:
 int myArray[5] = {1, 2, 3, 4, 5};
 
 ## 8️⃣ Pointers
-Pointers store the memory address of another variable.
+- Pointers store the memory address of another variable.
 
 code:
 ```
@@ -108,7 +108,7 @@ int* ptr = &var; // ptr holds the address of var
 ```
 
 ## 9️⃣ Classes and Objects
-C++ is an object-oriented programming language that allows you to define classes.
+- C++ is an object-oriented programming language that allows you to define classes.
 
 code:
 ```
@@ -128,7 +128,7 @@ int main() {
 }
 ```
 ## 🔟 Standard Library
-C++ has a rich standard library that provides various functionalities, including input/output operations, string manipulations, and data structures.
+- C++ has a rich standard library that provides various functionalities, including input/output operations, string manipulations, and data structures.
 
 iostream: for input/output stream
 vector: dynamic array
