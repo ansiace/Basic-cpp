@@ -155,7 +155,7 @@ int main() {
 ```
 #### This is just an introduction to the basics of C++. There's much more to learn, such as advanced data structures, algorithms, templates, and more. If you have any specific questions or need further explanation on any topic, feel free to ask!
 
-<!--end of basics of cpp-->
+<!--end of basics of cpp programming-->
 
 ### By understanding these basics, you can start writing your own code and build a foundation for learning more advanced programming concepts.
 
