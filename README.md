@@ -1,4 +1,4 @@
-## Welcome to basic cpp programming 🧑‍💻
+## Welcome to basic cpp/c++ programming 🧑‍💻
 
 ## 1️⃣ Basic Structure of a C++ Program.
 
