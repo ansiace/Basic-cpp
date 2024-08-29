@@ -1,4 +1,4 @@
-//check weather a number is palindrome or not.
+//check weather a given number is palindrome or not.
 #include<iostream>
 using namespace std;
 int main(){
