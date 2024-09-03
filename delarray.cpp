@@ -1,4 +1,4 @@
-//delete array
+//Delete an array
 
 #include<iostream>
 using namespace std;
