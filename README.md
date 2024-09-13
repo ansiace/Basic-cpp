@@ -240,3 +240,11 @@ In general, the Fibonacci sequence is defined by the recurrence relation:
 
 - The Tribonacci series is similar to the Fibonacci series, but instead of each number being the sum of the two preceding ones, each number in the Tribonacci series is the sum of the three preceding numbers.
 
+### How to Generate the Tribonacci Sequence:
+
+Start with the first three numbers: Typically 0,1 and 2.
+Add the three most recent numbers to get the next number in the sequence.
+Repeat the process to generate as many terms as needed.
+
+The sequence begins as follows:
+0, 1, 2, 3, 6, 11, 20, 37 ...
