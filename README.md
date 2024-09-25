@@ -1,6 +1,6 @@
 ## Welcome to basic cpp/c++ programming 🧑‍💻
 
-## 1️⃣ Basic Structure of a C++ Program.
+## 1️⃣ Basic Structure of a C++/cpp Program.
 
 - A simple C++ program consists of at least one main() function, which is the entry point of the program.
 ```
