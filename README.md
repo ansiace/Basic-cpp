@@ -1,4 +1,4 @@
-## Welcome to basic cpp/c++ programming 🧑‍💻
+## Welcome to basic cpp/c++ programming, C++ is a powerful and versatile programming language. Here's a basic introduction to C++ 🧑‍💻
 
 ## 1️⃣ Basic Structure of a C++/cpp Program.
 
