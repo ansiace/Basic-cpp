@@ -1,3 +1,5 @@
+
+
 #include<iostream>
 using namespace std;
 
@@ -9,7 +11,7 @@ int main(){
 
     for(i=0;i<a;i++){
 
-        arr[i]=arr[i]-arr[i];
+        arr[i]=arr[i]+arr[i]; 
         cout<<arr[i]<<" ";
 
     }
