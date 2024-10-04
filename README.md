@@ -159,7 +159,7 @@ int main() {
 
 ### By understanding these basics, you can start writing your own code and build a foundation for learning more advanced programming concepts.
 
-## Armstrong Number:
+## `Armstrong Number:`
 
 - An Armstrong number (also known as a narcissistic number, pluperfect number, or pluperfect digital invariant) is a number that is equal to the sum of its own digits raised to the power of the number of digits. 
 ## Example:
@@ -176,7 +176,7 @@ int main() {
 123: 1^3 + 2^3 + 3^3 = 36 Not a Armstrong Number;
 370: 3^3 + 7^3 + 0^3 = 370 Armstrong Number 
 ```
-## Palindrome Number:
+## `Palindrome Number:`
 
 - A palindrome is a word, number, phrase, or other sequence of characters that reads the same backward as forward (ignoring spaces, punctuation, and capitalization). The term originates from the Greek words "palin," meaning "again," and "dromos," meaning "way" or "direction."
 
@@ -221,7 +221,7 @@ Five-Digit Palindrome Numbers:
 ```
 These numbers all read the same backward and forward, which is the defining characteristic of a palindrome number.
 
-## Fabonacci Series
+## `Fabonacci Series:`
 - The Fibonacci series (or Fibonacci sequence) is a series of numbers in which each number (after the first two) is the sum of the two preceding ones, usually starting with 0 and 1. This sequence was introduced to the Western world by the Italian mathematician Leonardo of Pisa, also known as Fibonacci.
 
 ### How to Generate the Fibonacci Sequence:
@@ -236,7 +236,7 @@ The sequence begins as follows:
 In general, the Fibonacci sequence is defined by the recurrence relation:
 𝐹(𝑛)=𝐹(𝑛−1)+𝐹(𝑛−2)
 
-## Tribonacci Series
+## `Tribonacci Series:`
 
 - The Tribonacci series is similar to the Fibonacci series, but instead of each number being the sum of the two preceding ones, each number in the Tribonacci series is the sum of the three preceding numbers.
 
