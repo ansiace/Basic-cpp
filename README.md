@@ -13,11 +13,11 @@ int main() {
 ## 2️⃣ Data Types
 - C++ supports several built-in data types, including:
 ```
-int: Integer
-float: Floating point number
+int:    Integer
+float:  Floating point number
 double: Double precision floating point number
-char: Character
-bool: Boolean
+char:   Character
+bool:   Boolean
 ```
 ```
 int myInt = 10;
