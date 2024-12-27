@@ -13,11 +13,11 @@ int main(){
         n=n/10;
     }
     if (c==b){
-        cout<<"no is palindrome";
+        cout<<" Number is palindrome";
     
     }
     else{
-        cout<<"no is not palindrome";
+        cout<<" Number is not palindrome";
     }
     return 0;
 }
