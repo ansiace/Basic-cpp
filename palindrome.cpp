@@ -6,7 +6,7 @@ int main(){
     int n,c,b=0,r;
     cout<<"enter the number"<<endl;
     cin>>n;  //input number
-    c=n;
+    c=n;  assigning n in c
     while(n!=0){
         r=n%10;
         b=r+(b*10);
