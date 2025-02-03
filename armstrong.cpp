@@ -10,11 +10,9 @@ int main(){
         rem=temp%10;
         sum=sum+(rem*rem*rem);
         temp=temp/10;
-
     }
     if(num==sum){
-        cout<<"number is armstrong ";
-
+        cout<<"number is armstrong ";  
     }
     else
     {
