@@ -1,5 +1,4 @@
-
-
+// odd even program from another approach
 #include <iostream>
  using namespace std;
 
