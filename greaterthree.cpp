@@ -4,7 +4,7 @@
 using namespace std;
 int main(){
     int a,b,c;
-    cin>>a>>b>>c;
+    cin>>a>>b>>c; // Enter three numbers
     if(a>b&&a>c){
         cout<<a<<"is greatest";
     }
